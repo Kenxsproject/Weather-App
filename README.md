@@ -9,6 +9,15 @@ This is a simple weather application that allows users to search for weather inf
 - Provides error messages for invalid city names or failed API requests.
 - Prevents duplicate city entries in the list.
 
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- [OpenWeatherMap API](https://openweathermap.org/api)
+- Gulp (Task runner)
+- Linters (for code quality)
+
 ## How to Use
 
 1. Clone the repository to your local machine.
